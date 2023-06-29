@@ -5,8 +5,8 @@ A pre-released version of DQT and the corresponding experimental data.
 ## Data
 Download all data via: [https://drive.google.com/drive/folders/1O9y88lXGLLmEMC0PHYWHJa0_scid7N59?usp=sharing](https://drive.google.com/drive/folders/1O9y88lXGLLmEMC0PHYWHJa0_scid7N59?usp=sharing)
 
-- logs.zip: Our experimental data, including testing data of 5 tools on 30 open-source apps at 5 rounds. 
-   - Directories: data dirs are named like "_Tool Name_-xxxx-xxx-_Round Number_-xx"
+- logs.zip: Our experimental data, including testing data of 8 objects (DQT, DQT*, and 6 comparison approaches) on 30 open-source apps at 5 rounds. 
+   - Directories: data dirs are named like "<_Tool Name>_-xxxx-xxx-<_Round Num.>_-<_Part Num._>" or "<_Tool Name>_-xxxx-xxx-<_Round Num>_"
    - File names end with "log": The runtime cmd output of the tool.
    - File names end with "bug": The runtime filtered Logcat output.
 - DQT_executable.zip: A pre-released executable version of DQT.
